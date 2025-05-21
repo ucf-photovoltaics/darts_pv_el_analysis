@@ -1,0 +1,36 @@
+#Author: Eric Schneller
+
+lines.linewidth : 2.0
+
+patch.linewidth: 0.5
+patch.facecolor: blue
+patch.edgecolor: eeeeee
+patch.antialiased: True
+
+text.hinting_factor : 8
+
+mathtext.fontset : cm
+
+axes.facecolor: white
+axes.edgecolor: black
+axes.grid : True
+axes.titlesize: x-large
+axes.labelsize: large
+
+axes.prop_cycle: cycler('color', ['0072BD', '77AC30', 'A2142F', 'D95319', 'EDB120', '7E2F8E',  '4DBEEE'])
+
+
+grid.color: b2b2b2
+grid.linestyle: :
+grid.linewidth: 0.5
+
+legend.fancybox: True
+
+xtick.direction: in
+ytick.direction: in
+
+xtick.top: True
+ytick.right: True
+
+xtick.minor.visible: True
+ytick.minor.visible: True
